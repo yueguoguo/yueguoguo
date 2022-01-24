@@ -1,9 +1,5 @@
 ### Hi there 👋 I am YUEGUOGUO
 
-<!--
-**yueguoguo/yueguoguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - 🔭 I’m currently working on building machine learning platform
 - 🌱 I’m currently learning finance, contemporary arts, and Chinese food cooking.
 - 📫 How to reach me: [![Blog post][1.2]][1], or on [![LinkedIn][2.2]][2].
