@@ -1,6 +1,6 @@
 ### Hi there 👋 I am YUEGUOGUO
 
-- 🔭 I’m currently working on building machine learning platform
+- 🔭 I’m currently working on building machine learning platform at Standard Chartered Bank.
 - 🌱 I’m currently learning finance, contemporary arts, and Chinese food cooking.
 - 📫 How to reach me: [![Blog post][1.2]][1], or on [![LinkedIn][2.2]][2].
 
